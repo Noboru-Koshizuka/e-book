@@ -1,0 +1,34 @@
+[{
+	"x":345,
+	"y":475,
+	"width":50,
+	"height":10,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.mhlw.go.jp/kokoro/support/hospitalization.html"
+		}
+},
+{
+	"x":75,
+	"y":485,
+	"width":170,
+	"height":10,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.mhlw.go.jp/kokoro/support/hospitalization.html"
+		}
+},
+{
+	"x":140,
+	"y":510,
+	"width":150,
+	"height":10,
+	"class":"link",
+	"data":
+		{
+			"url": "https://www.comhbo.net/?page_id=29921"
+		}
+}
+]
